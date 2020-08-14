@@ -378,3 +378,4 @@ C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\bin
 C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj\Debug\netcoreapp3.1\BookList.csproj.CoreCompileInputs.cache
 C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj\Debug\netcoreapp3.1\BookList.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj\Debug\netcoreapp3.1\BookList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj\Debug\netcoreapp3.1\Razor\Pages\BookL\Index.cshtml.g.cs
