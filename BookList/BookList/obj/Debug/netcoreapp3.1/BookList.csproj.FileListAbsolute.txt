@@ -381,3 +381,4 @@ C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj
 C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj\Debug\netcoreapp3.1\Razor\Pages\BookL\Index.cshtml.g.cs
 C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj\Debug\netcoreapp3.1\Razor\Pages\BookL\Create.cshtml.g.cs
 C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj\Debug\netcoreapp3.1\Razor\Pages\BookL\Edit.cshtml.g.cs
+C:\Users\ErikKvalvik\source\repos\WebApplication1\BookList\BookList\BookList\obj\Debug\netcoreapp3.1\Razor\Pages\BookL\Upsert.cshtml.g.cs
